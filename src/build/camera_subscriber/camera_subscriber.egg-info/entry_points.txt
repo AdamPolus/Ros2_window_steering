@@ -1,0 +1,4 @@
+[console_scripts]
+camera_node = camera_subscriber.camera_node:main
+key_control = camera_subscriber.key_control:main
+
